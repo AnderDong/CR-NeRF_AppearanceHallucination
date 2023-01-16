@@ -1,7 +1,7 @@
 # Cross-Rays Neural Radiance Fields In the Wild
 A demo showing facial motion retargeting results of our CR-NeRF
 
-![contents](https://AnderDong.github.io/anonymous_test/raw/figure/test.jpg)
+<img src="./figure/demo1.png"/>
 
 ## Paper
 
