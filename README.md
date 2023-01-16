@@ -2,7 +2,7 @@
 A demo showing facial motion retargeting results of our CR-NeRF
 
 <p align="center">
-< img src="./figure/demo1.png" alt="demo1" width="90%" align=center/>
+< img src="[.](https://github.com/AnderDong/CR-NeRF_test)/figure/demo1.png" alt="demo1" width="90%" align=center/>
 </p >
 
 ## Paper
