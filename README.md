@@ -1,11 +1,11 @@
 # Cross-Rays Neural Radiance Fields In the Wild
 A demo showing facial motion retargeting results of our CR-NeRF
 
-![demo](/figure/demo1.png "Magic CR-NeRF")
+![demo](./figure/demo1.png "Magic")
 
 ## Paper
 
-[Cross-Rays Neural Radiance Fields In the Wild]()
+[Cross-Rays Neural Radiance Fields In the Wild]()\
 [[Supplementary material]()]
 
 ## Dependencies
