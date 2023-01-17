@@ -30,7 +30,7 @@
                 <sup>2</sup>B</p>
             <div class="row justify-content-center">
               <div class="column">
-                  <p class="mb-5"><a class="btn btn-large btn-dark" href="" role="button"  target="_blank">
+                  <p class="mb-5"><a class="btn btn-large btn-dark" href="baidu.com" role="button"  target="_blank">
                     <ion-icon name="document-text-outline"></ion-icon> Paper</a> </p>
               </div>
               &nbsp;&nbsp;
