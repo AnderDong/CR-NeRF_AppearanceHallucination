@@ -13,7 +13,7 @@
   <!-- cover -->
   <section>
     <div class="jumbotron text-center mt-0">
-      <div class="container" style="margin-bottom:-60px">
+      <div class="container">
         <div class="row">
           <div class="col-12">
             <h2> Towards Novel View Synthesis from Unconstrained Photo Collections with Cross-Rays Neural Radiance Fields</h2>
