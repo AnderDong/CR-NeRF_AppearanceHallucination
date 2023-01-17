@@ -79,11 +79,17 @@
     <div class="container">
       <div class="row">
         <div class="col-12 text-center">
-            <h3>Overview video</h3>
+            <h3>Appearance Hallucination</h3>
             <hr style="margin-top:0px">
-            <div class="embed-responsive embed-responsive-16by9">
-                <iframe style="clip-path: inset(1px 1px)" width="100%" height="100%" src="https://www.youtube.com/embed/Qrz0gfcTdQs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-            </div>
+            <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">Brandenburg Gate</h4>
+            <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+                <source src="video/thime.mp4">
+            </video>
+            <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">Trevi Fountain</h4>
+            <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+                <source src="images/app_Fountain_c.mp4" type="video/mp4">
+            </video>
+            </video>
         </div>
       </div>
     </div>
@@ -158,11 +164,11 @@
             <hr style="margin-top:0px">
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">From Trevi Fountain to Brandenburg Gate</h4>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="images/Fountain2Gate_c.mp4" type="video/mp4">
+                <source src="video/thime.mp4">
             </video>
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">From Brandenburg Gate to Trevi Fountain</h4>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="images/Gate2Fountain_c.mp4" type="video/mp4">
+                <source src="video/thime.mp4">
             </video>
             </video>
         </div>
@@ -179,7 +185,7 @@
             <h3>Appearance Hallucination From Artworks</h3>
             <hr style="margin-top:0px">
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="images/art_c.mp4" type="video/mp4">
+                <source src="video/thime.mp4">
             </video>
         </div>
       </div>
