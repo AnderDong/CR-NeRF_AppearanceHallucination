@@ -200,8 +200,10 @@
           <h3>Citation</h3>
           <hr style="margin-top:0px">
               <pre style="background-color: #e9eeef;padding: 1.25em 1.5em">
-<code>@inproceedings{
-}</code></pre>
+<!-- <code>@inproceedings{
+}</code> -->
+
+</pre>
           <hr>
       </div>
     </div>
