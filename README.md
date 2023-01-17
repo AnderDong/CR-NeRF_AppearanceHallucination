@@ -23,7 +23,7 @@
                 <a href="" target="_blank">B</a><sup>2</sup>,
                 <a href="" target="_blank">C</a><sup>2</sup>, 
                 <a href="" target="_blank">D</a><sup>1</sup>,
-                E</a><sup>2</sup>,
+                </a><sup>2</sup>,
                 <a href="" target="_blank">F</a><sup>2</sup>, 
                 <a href="" target="_blank">G</a><sup>2</sup></h6>
             <p><sup>1</sup>A &nbsp;&nbsp; 
@@ -138,9 +138,11 @@
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
                 <source src="images/app_Gate_c.mp4" type="video/mp4">
             </video>
+
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">Trevi Fountain</h4>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
                 <source src="images/app_Fountain_c.mp4" type="video/mp4">
+            </video>
             </video>
         </div>
       </div>
@@ -159,9 +161,11 @@
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
                 <source src="images/Fountain2Gate_c.mp4" type="video/mp4">
             </video>
+
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">From Brandenburg Gate to Trevi Fountain</h4>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
                 <source src="images/Gate2Fountain_c.mp4" type="video/mp4">
+            </video>
             </video>
         </div>
       </div>
