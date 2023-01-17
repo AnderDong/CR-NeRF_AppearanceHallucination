@@ -17,8 +17,8 @@
         <div class="row">
           <div class="col-12">
             <h2> Towards Novel View Synthesis from Unconstrained Photo Collections with Cross-Rays Neural Radiance Fields</h2>
-            <h4 style="color:#5a6268;">ICML 2023</h4>
-            <hr>
+            <!-- <h4 style="color:#5a6268;">ICML 2023</h4> -->
+            <!-- <hr>
             <h6> <a href="" target="_blank">A</a><sup>1</sup>, 
                 <a href="" target="_blank">B</a><sup>2</sup>,
                 <a href="" target="_blank">C</a><sup>2</sup>, 
@@ -46,7 +46,7 @@
               &nbsp;&nbsp;
               <div class="column">
                 <p class="mb-5"><a class="btn btn-large btn-dark" href="" role="button"  target="_blank">
-                  <ion-icon name="document-text-outline"></ion-icon>Poster</a> </p>
+                  <ion-icon name="document-text-outline"></ion-icon>Poster</a> </p> -->
             </div>
             </div>
           </div>
