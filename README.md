@@ -136,7 +136,7 @@
             <hr style="margin-top:0px">
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">Brandenburg Gate</h4>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="images/app_Gate_c.mp4" type="video/mp4">
+                <source src="video/thime.mp4">
             </video>
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">Trevi Fountain</h4>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
