@@ -62,13 +62,13 @@
         <div class="col-12 text-center">
           <h3>Abstract</h3>
             <hr style="margin-top:0px">
-            <img width="100%" src="img/image2.png" alt="picture">
+            <img width="100%" src="img/overview.jpg" alt="picture">
             <!-- <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted=""> -->
                   <!-- <source src="images/image1.png" type="video/mp4"> -->
               <!-- </video> -->
               <!-- <br><br> -->
           <p class="text-justify">  </p>
-          <p class="text-justify">Neural Radiance Fields (NeRF) has recently gained popularity for its impressive novel view synthesis ability. This paper studies the problem of hallucinated NeRF: i.e., recovering a realistic NeRF at a different time of day from a group of tourism images. Existing solutions adopt NeRF with a controllable appearance embedding to render novel views under various conditions, but they cannot render view-consistent images with an unseen appearance. To solve this problem, we present an end-to-end framework for constructing a hallucinated NeRF, dubbed as Ha-NeRF. Specifically, we propose an appearance hallucination module to handle time-varying appearances and transfer them to novel views. Considering the complex occlusions of tourism images, we introduce an anti-occlusion module to decompose the static subjects for visibility accurately. Experimental results on synthetic data and real tourism photo collections demonstrate that our method can hallucinate the desired appearances and render occlusion-free images from different views.</p>
+          <p class="text-justify">Neural Radiance Fields (NeRF) has facilitated recent advances due to its impressive capabilities in novel view synthesis. In this paper, we study recovering a realistic NeRF by reconstructing images from unconstrained photo collections. Although the images are abundant and easily available, reconstructing these images presents two challenges due to the static-scene limitation of NeRF: (1) the images have variable appearance due to different capturing time and camera settings; (2) the images contain transient objects like humans and cars. Existing methods address the challenges by considering local information of each single ray of a scene independently. We theoretically analyze that considering correlation across multiple rays promotes capturing more global information. Motivated by this, we propose a Cross-Ray paradigm that processes multiple rays simultaneously. Based on the paradigm, we propose a Cross-Ray NeRF (CR-NeRF). Specifically, we represent multiple rays with a novel cross-ray feature and recover the appearance by fusing global statistics, i.e.,feature covariance of the rays and appearance of the images. Moreover, we develop the perspective of transient objects handling as image segmentation on multiple rays, through which we segment and grid sample the images for a visibility map regarding rays of the objects. Experimental results on large real-world datasets verify the effectiveness of CR-NeRF. CR-NeRF also allows for efficient inference of arbitrary appearance modeling and synthesis of non-transient images from multiple views.</p>
         </div>
       </div>
     </div>
@@ -83,11 +83,11 @@
             <hr style="margin-top:0px">
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">Brandenburg Gate</h4>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="video/thime.mp4">
+                <source src="video/video1.mp4">
             </video>
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">Trevi Fountain</h4>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="video/thime.mp4">
+                <source src="video/video2.mp4">
             </video>
             </video>
         </div>
@@ -134,7 +134,7 @@
   <br> Hallucination -->
 
   <!-- Appearance Hallucination -->
-  <section>
+  <!-- <section>
     <div class="container">
       <div class="row">
         <div class="col-12 text-center">
@@ -142,18 +142,18 @@
             <hr style="margin-top:0px">
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">Brandenburg Gate</h4>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="video/thime.mp4">
+                <source src="video/video3.mp4">
             </video>
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">Trevi Fountain</h4>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="video/thime.mp4">
+                <source src="video/video4.mp4">
             </video>
             </video>
         </div>
       </div>
     </div>
   </section>
-  <br>
+  <br> -->
 
   <!-- Cross-Appearance Hallucination -->
   <section>
@@ -185,7 +185,7 @@
             <h3>Appearance Hallucination From Artworks</h3>
             <hr style="margin-top:0px">
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="video/thime.mp4">
+                <source src="video/video5.mp4">
             </video>
         </div>
       </div>
