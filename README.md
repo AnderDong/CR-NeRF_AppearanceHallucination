@@ -191,7 +191,6 @@
       </div>
     </div>
   </section>
-  <br>
 
   <!-- citing -->
   <!-- <div class="container">
