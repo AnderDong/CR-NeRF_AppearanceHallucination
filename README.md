@@ -62,13 +62,8 @@
         <div class="col-12 text-center">
           <h3>Abstract</h3>
             <hr style="margin-top:0px">
-            <img width="100%" src="img/overview.jpg" alt="picture">
-            <!-- <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted=""> -->
-                  <!-- <source src="images/image1.png" type="video/mp4"> -->
-              <!-- </video> -->
-              <!-- <br><br> -->
-          <p class="text-justify">  </p>
-          <p class="text-justify"></p>
+            <!-- <img width="100%" src="img/overview.jpg" alt="picture"> -->
+          <p class="text-justify">Neural Radiance Fields (NeRF) has shown remarkable capabilities in novel view synthesis from static scene images and has facilitated significant advances in virtual reality and digital humans. This paper focuses on the problem of recovering a NeRF which is unobstructed by transient objects and controllable in appearance from challenging unconstrained photo collections, where 1) the images may have dynamic change over appearance due to different capturing time and camera settings, and 2) the images may be occluded by transient objects such as humans and cars. Conventional approaches seek to address this task by locally utilizing each single ray (i.e., a light cast from a camera through a pixel on an image plane into a 3D scene) to synthesize a color of pixel  independently. Here, our observation is that human tends to leverage global information to recognize appearance and objects. We theoretically find that leveraging correlation across multiple rays promotes capturing more global information.  Motivated by this, we propose a Cross-Ray NeRF (CR-NeRF) to synthesize non-occlusion images with a desired appearance from unconstrained images. Specifically, to model varying appearances, we first propose to represent multiple rays with a novel cross-ray feature and then recover the appearance by fusing global statistics, i.e., feature covariance of the rays and image appearance. Moreover, to avoid occlusion introduced by transient objects, we propose a transient objects handler and introduce a grid sampling strategy for masking out the transient objects. Extensive experimental results on large real-world datasets verify the effectiveness of CR-NeRF.</p>
         </div>
       </div>
     </div>
@@ -96,65 +91,6 @@
   </section>
   <br>
 
-  <!-- Appearsnce Hallucination
-  <section>
-    <div class="container">
-      <div class="row">
-        <div class="col-12 text-center">
-            <h3> Appearance Hallucination of Brandenburg Gate </h3>
-            <hr style="margin-top:0px">
-            <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="images/app_Gate_c.mp4" type="video/mp4">
-            </video>
-        </div>
-      </div>
-    </div>
-  </section>
-  <br> of Brandenburg Gate -->
-
-  <!-- Appearance
-  <section>
-    <div class="container">
-      <div class="row">
-        <div class="col-12 text-center">
-            <h3>Appearance Hallucination of Brandenburg Gate</h3>
-            <hr style="margin-top:0px">
-            <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="images/app_Gate_c.mp4" type="video/mp4">
-            <h3>Appearance Hallucination of Trevi Fountain</h3>
-            <hr style="margin-top:0px">
-            </video>
-            <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="images/app_Fountain_c.mp4" type="video/mp4">
-            </video>
-        </div>
-      </div>
-    </div>
-  </section>
-  <br> Hallucination -->
-
-  <!-- Appearance Hallucination -->
-  <!-- <section>
-    <div class="container">
-      <div class="row">
-        <div class="col-12 text-center">
-            <h3>Appearance Hallucination</h3>
-            <hr style="margin-top:0px">
-            <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">Brandenburg Gate</h4>
-            <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="video/video3.mp4">
-            </video>
-            <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">Trevi Fountain</h4>
-            <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="video/video4.mp4">
-            </video>
-            </video>
-        </div>
-      </div>
-    </div>
-  </section>
-  <br> -->
-
   <!-- Cross-Appearance Hallucination -->
   <section>
     <div class="container">
@@ -164,11 +100,11 @@
             <hr style="margin-top:0px">
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">From Trevi Fountain to Brandenburg Gate</h4>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="video/thime.mp4">
+                <source src="video/video3.mp4">
             </video>
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">From Brandenburg Gate to Trevi Fountain</h4>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="video/thime.mp4">
+                <source src="video/video4.mp4">
             </video>
             </video>
         </div>
