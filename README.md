@@ -16,7 +16,7 @@
       <div class="container">
         <div class="row">
           <div class="col-12">
-            <h2> Towards Novel View Synthesis from Unconstrained Photo Collections with Cross-Rays Neural Radiance Fields</h2>
+            <h2> Cross-Ray Neural Radiance Fields for Novel-View Synthesis from Unconstrained Photo Collections</h2>
             <!-- <h4 style="color:#5a6268;">ICML 2023</h4> -->
             <!-- <hr>
             <h6> <a href="" target="_blank">A</a><sup>1</sup>, 
