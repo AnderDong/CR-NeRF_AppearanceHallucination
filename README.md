@@ -76,7 +76,7 @@
             <h3>Appearance Hallucination</h3>
             <hr style="margin-top:0px">
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">Brandenburg Gate</h4>
-[![](https://i.ytimg.com/vi/-ZdKJQTobIY/maxresdefault.jpg)](https://youtu.be/-ZdKJQTobIY "")
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1689650511/video_to_markdown/images/youtube---ZdKJQTobIY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/-ZdKJQTobIY "")
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">Trevi Fountain</h4>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
                 <source src="video/video2.mp4">
