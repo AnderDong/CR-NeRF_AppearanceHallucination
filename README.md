@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Cross-Ray Neural Radiance Fields for Novel-View Synthesis from Unconstrained Photo Collections</title>
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   </head>
@@ -78,11 +77,11 @@
             <hr style="margin-top:0px">
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">Brandenburg Gate</h4>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="video/video1.mp4">
+                <source src="https://github.com/AnderDong/CR-NeRF_test/blob/main/video/video1.mp4">
             </video>
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">Trevi Fountain</h4>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="video/video2.mp4">
+                <source src="https://github.com/AnderDong/CR-NeRF_test/blob/main/video/video2.mp4">
             </video>
             </video>
         </div>
@@ -100,11 +99,11 @@
             <hr style="margin-top:0px">
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">From Trevi Fountain to Brandenburg Gate</h4>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="video/video3.mp4">
+                <source src="https://github.com/AnderDong/CR-NeRF_test/blob/main/video/video3.mp4">
             </video>
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">From Brandenburg Gate to Trevi Fountain</h4>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="video/video4.mp4">
+                <source src="https://github.com/AnderDong/CR-NeRF_test/blob/main/video/video4.mp4">
             </video>
             </video>
         </div>
@@ -121,7 +120,7 @@
             <h3>Appearance Hallucination From Artworks</h3>
             <hr style="margin-top:0px">
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-                <source src="video/video5.mp4">
+                <source src="https://github.com/AnderDong/CR-NeRF_test/blob/main/video/video5.mp4">
             </video>
         </div>
       </div>
@@ -139,13 +138,13 @@
 }</code> -->
 
 </pre>
-          <hr>
+          <!-- <hr>
       </div>
     </div>
-  </div>
-
+  </div> -->
+<!-- 
   <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script> -->
 
 </body>
 </html>
