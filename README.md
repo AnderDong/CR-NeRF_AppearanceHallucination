@@ -76,6 +76,16 @@
             <h3>Appearance Hallucination</h3>
             <hr style="margin-top:0px">
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">Brandenburg Gate</h4>
+            <iframe 
+src="https://github.com/AnderDong/CR-NeRF_test/blob/main/video/video1.mp4" 
+scrolling="no" 
+border="0" 
+frameborder="no" 
+framespacing="0" 
+allowfullscreen="true" 
+height=600 
+width=800> 
+</iframe>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
                 <source src="video/video1.mp4" type="video/mp4">
             </video>
