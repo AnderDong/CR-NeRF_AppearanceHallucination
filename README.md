@@ -76,9 +76,10 @@
             <h3>Appearance Hallucination</h3>
             <hr style="margin-top:0px">
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">Brandenburg Gate</h4>
-            <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+            <!-- <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
                 <source src="https://youtu.be/iZX_IcIKAvI" type="video/mp4">
-            </video>
+            </video> -->
+            <iframe width="420" height="315" src="https://youtu.be/iZX_IcIKAvI" frameborder="0" allowfullscreen></iframe>
             <h4 style="margin-top:20px; margin-bottom:20px; color:#717980">Trevi Fountain</h4>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
                 <source src="video/video2.mp4">
