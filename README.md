@@ -1,4 +1,13 @@
+## Cross-Ray Neural Radiance Fields for Novel-View Synthesis from Unconstrained Photo Collections
+
+### Appearance Hallucination
+
+---
+
+#### Brandenburg Gate
+
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1689651565/video_to_markdown/images/youtube--iZX_IcIKAvI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/iZX_IcIKAvI)
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
