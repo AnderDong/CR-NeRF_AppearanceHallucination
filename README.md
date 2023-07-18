@@ -8,7 +8,7 @@
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   </head>
-[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1689650511/video_to_markdown/images/youtube---ZdKJQTobIY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/-ZdKJQTobIY "")
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1689651565/video_to_markdown/images/youtube--iZX_IcIKAvI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/iZX_IcIKAvI "")
   <!-- cover -->
   <section>
     <div class="jumbotron text-center mt-0">
